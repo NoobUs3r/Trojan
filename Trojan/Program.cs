@@ -10,6 +10,8 @@ namespace TrickyGame
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This game has a virus inside! Please be aware!!!");
+
             string sftpPublicIp = "";
             string sftpUsername = "";
             string sftpPassword = "";
